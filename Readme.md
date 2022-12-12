@@ -7,6 +7,3 @@
 
 I am a senior software developer with around 10 years of experience in website, mobile, and desktop application development, writing full stack solutions primarily in C#, .NET, ASP.NET MVC, ASP.NET Core, WCF, WPF, Entity Framework, Kendo UI, Blazor, Knockout.js, JavaScript, Typescript, Angular, React, and Azure services.
 Proficient in deriving customer requirements, designing end systems to those requirements, building project schedules, setting milestones, and fostering effective communications between customers and team members.
-
-### Status
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahandswork&hide=TeX&layout=compact)
